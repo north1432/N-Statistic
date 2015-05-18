@@ -1,0 +1,27 @@
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\bin\Release\N-Statistic.exe.manifest
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\bin\Release\N-Statistic.application
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\bin\Release\N-Statistic.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\bin\Release\N-Statistic.pdb
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\obj\x86\Release\N_Statistic.Form1.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\obj\x86\Release\N_Statistic.Form2.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\obj\x86\Release\N_Statistic.Properties.Resources.resources
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\obj\x86\Release\N-Statistic.exe.manifest
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\obj\x86\Release\N-Statistic.application
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\obj\x86\Release\N-Statistic.exe
+C:\Users\Asus\AppData\Local\Temporary Projects\N-Statistic\obj\x86\Release\N-Statistic.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\bin\Release\N-Statistic.exe.manifest
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\bin\Release\N-Statistic.application
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\bin\Release\N-Statistic.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\bin\Release\N-Statistic.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\obj\x86\Release\N_Statistic.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\obj\x86\Release\N_Statistic.Form2.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\obj\x86\Release\N_Statistic.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\obj\x86\Release\N-Statistic.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\obj\x86\Release\N-Statistic.exe.manifest
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\obj\x86\Release\N-Statistic.application
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\obj\x86\Release\N-Statistic.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\obj\x86\Release\N-Statistic.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\N-Statistic\N-Statistic\obj\x86\Release\N-Statistic.csprojResolveAssemblyReference.cache
